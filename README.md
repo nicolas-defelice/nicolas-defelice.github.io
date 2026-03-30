@@ -6,11 +6,11 @@ Ce git présente les différentes étapes pour parvenir à transcrire proprement
 
 ## La source. Stettler et son *Journal*
 ## Transcription
-    eScriptorium, modèle Fondue Catmusv2, correction manuelle selon le principe de Gabay 2025 (Lire et faire lire). Montrer quelques exemples de choix opérés pour la transcription de termes.
+eScriptorium, modèle Fondue Catmusv2, correction manuelle selon le principe de Gabay 2025 (Lire et faire lire). Montrer quelques exemples de choix opérés pour la transcription de termes.
 ## Segmentation
-    SegmOnto, assez facile car toutes les pages contiennent essentiellement du texte, ni illustrations ni ajouts, sauf quelques remarques et insertions, mais c'est tout de même du texte manuscrit.
+SegmOnto, assez facile car toutes les pages contiennent essentiellement du texte, ni illustrations ni ajouts, sauf quelques remarques et insertions, mais c'est tout de même du texte manuscrit.
 ## Recherche lexicale ciblée
-    Analyse de réseau sur R à partir de l'ensemble du texte encodé. Observation de l'évolution de l'usage de certains termes, dans le temps et en fonction du moment d'écriture, pour la période antérieure à 1799 (donc quand Stettler écrit a posteriori) et pour ce qui suit (lorsqu'il écrit sur le moment).
+Analyse de réseau sur R à partir de l'ensemble du texte encodé. Observation de l'évolution de l'usage de certains termes, dans le temps et en fonction du moment d'écriture, pour la période antérieure à 1799 (donc quand Stettler écrit a posteriori) et pour ce qui suit (lorsqu'il écrit sur le moment).
 ## Licence
 Les transcriptions sont protégées par la licence CC BY-NC, soit l'obligation de citer l'auteur du travail et seuls les usages non-commerciaux des données sont autorisées. Les images ne peuvent être reproduites sans l'autorisation explicite de la Burgerbibliothek de Berne, dépositaire de la source originale.
 ## Citation
