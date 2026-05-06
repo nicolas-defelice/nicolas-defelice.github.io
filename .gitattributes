@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Vérifier que tout fonctionne normalement sur tous les supports
+Pourquoi est-ce que ça ne s'affiche pas dans le Github Desktop et pourquoi pas dans RStudio ?
+Maintenant c'est le contraire, ça s'affiche dans le Desktop mais pas dans le Github en ligne ?
